@@ -2,3 +2,8 @@ title: "Carnet films & livres"
 description: "Notes, commentaires, agacements et enthousiasmes."
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - index.md
+  - films/index.md
+  - livres/index.md
